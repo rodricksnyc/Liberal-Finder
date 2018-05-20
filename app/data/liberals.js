@@ -1,0 +1,124 @@
+
+var liberalsArray = [
+	{
+	  "name":"Gavin Newsom",
+	  "photo":"http://www.newyorker.pics/img/Newsom.jpg",
+	  "sex":"male",
+	  "scores":[
+	     5,
+	     3,
+	     5,
+	     5,
+	     5,
+	     4,
+	     3,
+	     5,
+	     5,
+	     3
+	   ]
+	},
+	{
+	  "name":"Bill Maher",
+	  "photo":"http://www.newyorker.pics/img/bill-maher.jpg",
+	  "sex":"male",
+	  "scores":[
+	     5,
+	     3,
+	     5,
+	     5,
+	     4,
+	     2,
+	     3,
+	     5,
+	     5,
+	     1
+	   ]
+	},
+	{
+	  "name":"Barack Obama",
+	  "photo":"http://www.newyorker.pics/img/obama.jpg",
+	  "sex":"male",
+	  "scores":[
+	     3,
+	     5,
+	     5,
+	     4,
+	     4,
+	     5,
+	     3,
+	     4,
+	     5,
+	     4
+	   ]
+	},
+	{
+	  "name":"Rachel Maddow",
+	  "photo":"http://www.newyorker.pics/img/maddow.jpg",
+	  "sex":"female",
+	  "scores":[
+	     4,
+	     5,
+	     5,
+	     4,
+	     5,
+	     5,
+	     4,
+	     2,
+	     4,
+	     3
+	   ]
+	},
+	{
+		"name":"Tom Steyer",
+		"photo":"http://www.newyorker.pics/img/steyer.jpg",
+		"sex":"male",
+		"scores":[
+			 4,
+			 4,
+			 5,
+			 5,
+			 5,
+			 5,
+			 5,
+			 5,
+			 4,
+			 1
+		 ]
+	},
+	{
+		"name":"Elizabeth Warren",
+		"photo":"http://www.newyorker.pics/img/warren.jpg",
+		"sex":"female",
+		"scores":[
+			 2,
+			 5,
+			 5,
+			 4,
+			 4,
+			 4,
+			 4,
+			 5,
+			 3,
+			 3
+		 ]
+	},
+	{
+		"name":"Kamala Harris",
+		"photo":"http://www.newyorker.pics/img/harris.jpg",
+		"sex":"female",
+		"scores":[
+			 1,
+			 5,
+			 5,
+			 4,
+			 4,
+			 4,
+			 4,
+			 3,
+			 3,
+			 4
+		 ]
+	}
+];
+
+module.exports = liberalsArray;

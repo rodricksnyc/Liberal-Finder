@@ -1,0 +1,22 @@
+{
+  "name": "suck a dick",
+  "version": "1.0.0",
+  "description": "fuck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.5.0"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-error-handler": "^1.1.0",
+    "nodemon": "^1.17.4",
+    "r": "0.0.5",
+    "path": "^0.12.7",
+    "router": "^1.3.2",
+    "router-express": "^1.5.2"
+  }
+}
