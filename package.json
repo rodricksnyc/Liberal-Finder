@@ -1,13 +1,11 @@
 {
-  "name": "suck a dick",
+  "name": "liberal-finder",
   "version": "1.0.0",
-  "description": "fuck",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "4.5.0"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "dependencies": {
     "cookie-parser": "^1.4.3",
@@ -18,5 +16,15 @@
     "path": "^0.12.7",
     "router": "^1.3.2",
     "router-express": "^1.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodricksnyc/Liberal-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodricksnyc/Liberal-Finder/issues"
+  },
+  "homepage": "https://github.com/rodricksnyc/Liberal-Finder#readme"
 }
